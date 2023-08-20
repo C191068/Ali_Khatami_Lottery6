@@ -39,6 +39,10 @@ now this checkUpkeep bytes calldata allows us to specify really anything that we
 
 when we call this checkUpkeep function <br>
 
+Having this checkdata be of bytes means that we can even specify this to call other function <br>
+
+there are lot of other things we can do by having this as input parameter of type bytes <br>
+
 
 
 
