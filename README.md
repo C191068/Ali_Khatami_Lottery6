@@ -54,6 +54,14 @@ here we gve an important comment <br>
 
 if upkeepNeeded is true it is time to get random number <br>
 
+The following should be true in order to return true <br>
+
+1. our time interval should have passed <br>
+
+2. The lottery should have at least one player and have some eth <br>
+
+3. Our subscription is funded with link <br>
+
 
 
 
