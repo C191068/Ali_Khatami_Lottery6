@@ -120,6 +120,7 @@ in our constructor right we launch this contract we should open up this lottery 
 Now we know lotterystate is in open state and we  only want checkupkeep to work <br>
 if the lottery state is in open state <br>
 
+additonally we want people only to enter if the lottery is open  <br>
 
 
 
