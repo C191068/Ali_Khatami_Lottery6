@@ -16,4 +16,8 @@ We shall import  /AutomationCompatibleInterface.sol so that we can implement bot
 
 function checkUpkeep <br>
 
+![k20](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/0304feec-5a90-445e-b97e-45f936fc0fa3)
+
+If we want we can import AutomationCompatible.sol or just AutomationCompatibleInterface <br>
+
 
