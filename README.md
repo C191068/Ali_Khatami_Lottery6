@@ -44,6 +44,9 @@ Having this checkdata be of bytes means that we can even specify this to call ot
 there are lot of other things we can do by having this as input parameter of type bytes <br>
 
 
+![k24](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/3bce0f78-fee8-4a2d-b50f-ed8382355ec1)
+
+We are not gonna use this checkData part here <br>
 
 
 
