@@ -126,6 +126,8 @@ additonally we want people only to enter if the lottery is open  <br>
 
 now we will create anothe if statement and revert if the lottery is not open <br>
 
+When we are requesting random words lets update the state to be calculating so that other <br>
+people can jump in here <br>
 
 
 
