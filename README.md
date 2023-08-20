@@ -20,4 +20,8 @@ function checkUpkeep <br>
 
 If we want we can import AutomationCompatible.sol or just AutomationCompatibleInterface <br>
 
+![k21](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/0f986848-a35d-4db0-9046-2113389ba40a)
+
+We have import the following in our code <br>
+
 
