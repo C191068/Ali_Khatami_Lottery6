@@ -114,6 +114,12 @@ We are kind of secretly creating uint256 where 0 equals open and 1 equals calcul
 
 Here we ahve created a storage variable of type LotteryState <br>
 
+![k31](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/9ae3d821-dde9-4d46-9e8d-de5855a16b57)
+
+in our constructor right we launch this contract we should open up this lottery <br>
+Now we know lotterystate is in open state and we  only want checkupkeep to work <br>
+if the lottery state is in open state <br>
+
 
 
 
