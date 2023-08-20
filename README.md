@@ -100,6 +100,9 @@ we can have ton of different staete like pending, open ,closed and calculating <
 
 a better way to keep track of the above state is to use Enum <br>
 
+![k28](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/5bd50ed7-0e31-4937-9248-0bb7742c4464)
+
+Defintion of Enum at this link https://docs.soliditylang.org/en/v0.8.17/types.html# <br>
 
 
 
