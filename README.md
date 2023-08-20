@@ -110,6 +110,10 @@ we have created a new and our own data type and we gonna have it to be open or c
 
 We are kind of secretly creating uint256 where 0 equals open and 1 equals calculating <br>
 
+![k30](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/b8bb7e30-2362-4db8-9b80-0092542c033c)
+
+Here we ahve created a storage variable of type LotteryState <br>
+
 
 
 
