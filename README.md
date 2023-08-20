@@ -108,7 +108,10 @@ Defintion of Enum at this link https://docs.soliditylang.org/en/v0.8.17/types.ht
 
 we have created a new and our own data type and we gonna have it to be open or calculating <br>
 
-We are kind of secretly creating uint256
+We are kind of secretly creating uint256 where 0 equals open and 1 equals calculating <br>
+
+
+
 
 
 
