@@ -133,7 +133,12 @@ people can jump in here <br>
 
 So that nobody can enter our lottery to trigger new update <br>
 
-And then ondce we fulfill after we pick our random winner 
+![k34](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/f35aa6c0-3fa7-474f-bd07-32386afc4fa3)
+
+
+And then ondce we fulfill after we pick our random winner we will give the above line of code <br>
+
+
 
 
 
