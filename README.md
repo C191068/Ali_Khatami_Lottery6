@@ -77,6 +77,7 @@ when we requested a random champion we are technically in this weired state <br>
 
 where we are waiting for a random number to returned <br>
 
+And we shouldd not allow any new players to join <br>
 
 
 
