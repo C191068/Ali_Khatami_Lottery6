@@ -71,7 +71,9 @@ Similiar to how Chainlink VRF our subscription needed to be funded with link <br
 the same thing need to be happened for checkupkeep and kkepers to run <br>
 
 
+Something we want to avoid when we are waiting for a random number to return <br>
 
+whenwe requeste4d a random champion 
 
 
 
