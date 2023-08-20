@@ -31,6 +31,9 @@ Now akrklottery is inheritating both VRFConsumerBaseV2 and AutomationCompatible 
 and this AutomationCompatible inheritance just makes sure that we add checkupkeep function <br>
 and performupkeep function <br>
 
+![k23](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/163f1944-4d29-4398-b64d-9d1276e03f84)
+
+now we add as parameter to checkUpkeep function <br>
 
 
 
