@@ -120,9 +120,12 @@ in our constructor right we launch this contract we should open up this lottery 
 Now we know lotterystate is in open state and we  only want checkupkeep to work <br>
 if the lottery state is in open state <br>
 
+![k32](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/0aa00c3d-dfc4-4a0e-aa6e-ea1e55e9eb18)
+
 additonally we want people only to enter if the lottery is open  <br>
 
 now we will create anothe if statement and revert if the lottery is not open <br>
+
 
 
 
