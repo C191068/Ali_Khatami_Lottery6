@@ -48,6 +48,10 @@ there are lot of other things we can do by having this as input parameter of typ
 
 We are not gonna use this checkData part here <br>
 
+![k25](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/f6aecf81-7d14-4bf2-aab6-6d879cb244f1)
+
+here we gve an important comment <br>
+
 
 
 
