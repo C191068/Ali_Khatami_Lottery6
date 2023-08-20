@@ -52,6 +52,9 @@ We are not gonna use this checkData part here <br>
 
 here we gve an important comment <br>
 
+if upkeepNeeded is true it is time to get random number <br>
+
+
 
 
 
