@@ -98,6 +98,8 @@ here we have created a new variable and we gonna set this to true if open otherw
 
 we can have ton of different staete like pending, open ,closed and calculating <br>
 
+a better way to keep track of the above state is to use Enum <br>
+
 
 
 
