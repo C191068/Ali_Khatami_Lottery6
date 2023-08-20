@@ -126,8 +126,12 @@ additonally we want people only to enter if the lottery is open  <br>
 
 now we will create anothe if statement and revert if the lottery is not open <br>
 
+![k33](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/aab4b677-7e4b-4d01-8c41-2c71e8509d1b)
+
 When we are requesting random words lets update the state to be calculating so that other <br>
 people can jump in here <br>
+
+So that nobody can enter our lottery to trigger new update <br>
 
 
 
