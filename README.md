@@ -104,6 +104,10 @@ a better way to keep track of the above state is to use Enum <br>
 
 Defintion of Enum at this link https://docs.soliditylang.org/en/v0.8.17/types.html# <br>
 
+![k29](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/477e6499-d9cb-4e42-8931-a9989a03541c)
+
+we have created a new and our own data type and we gonna have it to be open or calculating <br>
+
 
 
 
