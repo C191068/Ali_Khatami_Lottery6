@@ -2,4 +2,7 @@
 
 ### Implementing Chainlink Keepers (Checkupkeep method)
 
-Now we will update our code so that the requestrandomchapion aut
+Now we will update our code so that the requestrandomchapion automatically happens <br>
+using chainlink keepers <br>
+
+
