@@ -96,6 +96,8 @@ we will be in a closed or calculating state <br>
 
 here we have created a new variable and we gonna set this to true if open otherwise false  <br>
 
+we can have ton of different staete like pending, open ,closed and calculating <br>
+
 
 
 
