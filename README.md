@@ -24,4 +24,29 @@ If we want we can import AutomationCompatible.sol or just AutomationCompatibleIn
 
 We have import the following in our code <br>
 
+![k22](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/f13090db-3141-44b9-bf0c-f8c767179337)
+
+Now akrklottery is inheritating both VRFConsumerBaseV2 and AutomationCompatible contract <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
