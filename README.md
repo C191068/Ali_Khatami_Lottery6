@@ -73,11 +73,19 @@ the same thing need to be happened for checkupkeep and kkepers to run <br>
 
 Something we want to avoid when we are waiting for a random number to return <br>
 
+
+![k26](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/e0007336-4f1e-4f47-b479-1046a5d48762)
+
+
 when we requested a random champion we are technically in this weired state <br>
 
 where we are waiting for a random number to returned <br>
 
 And we shouldd not allow any new players to join <br>
+
+So actually gonna create some state variables teloign us whether the lottery is <br>
+open or not and while we are waiting for a random number to get back <br>
+we will be in a closed or calculating state <br>
 
 
 
