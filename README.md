@@ -133,7 +133,7 @@ people can jump in here <br>
 
 So that nobody can enter our lottery to trigger new update <br>
 
-
+And then ondce we fulfill after we pick our random winner 
 
 
 
