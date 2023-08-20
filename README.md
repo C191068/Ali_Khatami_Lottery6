@@ -35,6 +35,9 @@ and performupkeep function <br>
 
 now we add as parameter to checkUpkeep function <br>
 
+now this checkUpkeep bytes calldata allows us to specify really anything that we want <br>
+
+when we call this checkUpkeep function <br>
 
 
 
