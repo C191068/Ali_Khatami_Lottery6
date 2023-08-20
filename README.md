@@ -62,6 +62,10 @@ The following should be true in order to return true <br>
 
 3. Our subscription is funded with link <br>
 
+4. The lottery should be in an open state <br>
+
+
+
 Similiar to how Chainlink VRF our subscription needed to be funded with link <br>
 
 the same thing need to be happened for checkupkeep and kkepers to run <br>
