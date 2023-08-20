@@ -139,6 +139,12 @@ So that nobody can enter our lottery to trigger new update <br>
 And then ondce we fulfill after we pick our random winner we will give the above line of code <br>
 
 
+![k35](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/9eac504e-c0e9-4ace-8845-9e54a6ebbcde)
+
+
+After we pick a winner from s_participants we need to reset our participants array we use the above line<br>
+
+
 
 
 
