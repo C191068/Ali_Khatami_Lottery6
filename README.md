@@ -88,6 +88,10 @@ open or not and while we are waiting for a random number to get back <br>
 we will be in a closed or calculating state <br>
 
 
+### ENUMS 
+
+
+
 
 
 
