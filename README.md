@@ -28,6 +28,8 @@ We have import the following in our code <br>
 
 Now akrklottery is inheritating both VRFConsumerBaseV2 and AutomationCompatible contract <br>
 
+and this AutomationCompatible inheritance just makes sure that we add checkupkeep function <br>
+
 
 
 
