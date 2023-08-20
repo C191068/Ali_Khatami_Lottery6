@@ -73,7 +73,11 @@ the same thing need to be happened for checkupkeep and kkepers to run <br>
 
 Something we want to avoid when we are waiting for a random number to return <br>
 
-whenwe requeste4d a random champion 
+when we requested a random champion we are technically in this weired state <br>
+
+where we are waiting for a random number to returned <br>
+
+
 
 
 
