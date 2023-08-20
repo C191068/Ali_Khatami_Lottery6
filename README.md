@@ -94,7 +94,7 @@ we will be in a closed or calculating state <br>
 
 ![k27](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/2dca388f-39f3-4c77-8856-c8f5ad57911c)
 
-here we have created a new variable <br>
+here we have created a new variable and we gonna set this to true if open otherwise false  <br>
 
 
 
