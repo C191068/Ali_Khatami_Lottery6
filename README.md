@@ -122,6 +122,11 @@ if the lottery state is in open state <br>
 
 additonally we want people only to enter if the lottery is open  <br>
 
+now we will create anothe if statement and revert if the lottery is not open <br>
+
+
+
+
 
 
 
