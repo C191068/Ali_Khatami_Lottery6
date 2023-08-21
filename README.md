@@ -395,6 +395,9 @@ instead of making it storage variable we gonna make it immutable to save some ga
 
 now we will create boolean to check to see if enough time is passed <br>
 
+Now we will check to see if we enough players <br>
+
+
 
 
 
