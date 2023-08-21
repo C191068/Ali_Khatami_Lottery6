@@ -358,7 +358,7 @@ blocktimestamp <br>
 
 Right when we deploy this contract we will update this with current timestamp<br>
 
-Now we gonnna need to check that differnce betwwn current imestamp and previous timestamp <br>
+Now we gonnna need to check that differnce betwwn current timestamp and previous timestamp <br>
 
 is greater than some interval <br>
 
