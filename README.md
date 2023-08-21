@@ -144,6 +144,9 @@ And then ondce we fulfill after we pick our random winner we will give the above
 
 After we pick a winner from s_participants we need to reset our participants array we use the above line<br>
 
+thus we reset the Lotterystate and we reset our participants array <br>
+
+
 
 ```solidity
 
