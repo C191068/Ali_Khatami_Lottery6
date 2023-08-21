@@ -366,6 +366,8 @@ Interval is gonna be some number in seconds of how long we want to wait between 
 
 lottery runs <br>
 
+![k40](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/89e864bb-19e6-4bda-8e50-114c2aed0bee)
+
 Now we gonna add it to our constructor as well <br>
 
 
