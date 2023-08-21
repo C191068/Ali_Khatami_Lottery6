@@ -415,6 +415,11 @@ that we are looking for <br>
 
 If the above returns true it is time to request a random number <br>
 
+it is time to end the lottery <br>
+
+
+
+
 
 
 
