@@ -334,6 +334,9 @@ And it will be false if Lotterystate is in any other state <br>
 Now we check to make sure if our time interval is passed <br>
 
 
+
+![k37](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/3f9039aa-82dd-40a5-aea2-c87dc97d987e)
+
 In order to chcek the time we gonna use another solidity globally available variable <br>
 known as block timestamp <br>
 
