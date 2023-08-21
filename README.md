@@ -384,8 +384,9 @@ interval isn't gonna change after we set it <br>
 
 instead of making it storage variable we gonna make it immutable to save some gas <br>
 
+![k44](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/0f4d5e69-5441-4ef3-a699-4c38bde4b7a4)
 
-
+instead of making it storage variable we gonna make it immutable to save some gas <br>
 
 
 
