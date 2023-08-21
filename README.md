@@ -389,6 +389,10 @@ instead of making it storage variable we gonna make it immutable to save some ga
 instead of making it storage variable we gonna make it immutable to save some gas <br>
 
 
+
+![k45](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/2d16e1c6-da28-4648-b87a-6cf14a6b86b5)
+
+
 now we will create boolean to check to see if enough time is passed <br>
 
 
