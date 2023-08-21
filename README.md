@@ -374,6 +374,9 @@ Now we gonna add it to our constructor as well <br>
 
 Now we gonna create another global variable <br>
 
+![k42](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/a570b002-9dad-41d4-a2df-b72ec8944b17)
+
+Then in our constructor ww will assign the above <br>
 
 
 
