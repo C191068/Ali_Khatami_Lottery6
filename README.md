@@ -403,6 +403,8 @@ now we will create boolean to check to see if enough time is passed <br>
 Now we will check to see if we enough players <br>
 
 
+Now we will also see if we have a balance <br>
+
 
 
 
