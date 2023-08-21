@@ -380,6 +380,9 @@ Then in our constructor ww will assign the above <br>
 
 interval isn't gonna change after we set it <br>
 
+![k43](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/b8cfd670-f6fc-4a29-bb82-cdcfb3dc1f55)
+
+instead of making it storage variable we gonna make it immutable to save some gas <br>
 
 
 
