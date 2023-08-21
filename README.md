@@ -417,6 +417,9 @@ If the above returns true it is time to request a random number <br>
 
 it is time to end the lottery <br>
 
+if it is false it is not time yet ,it is not time to end the lottery up <br>
+
+
 
 
 
