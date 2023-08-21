@@ -345,6 +345,10 @@ It returns the current timestamp of blockchain <br>
 If enough time is passed we need to get the current blocktimestamp <br>
 minus the lastblocktimestamp 
 
+
+![k38](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/c564e7ed-52c9-4637-9e0c-b2dd92cd8453)
+
+
 Now we will create a state variable that will keep track of previous <br>
 blocktimestamp <br>
 
