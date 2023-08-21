@@ -319,7 +319,12 @@ We gonna check the below four things :
 4. The lottery should be in an open state <br>
 
 
-If the above all are true checkUpkeep will be true and w8ill trigger the chainlink keepers <br>
+If the above all are true checkUpkeep will be true and will trigger the chainlink keepers <br>
+
+to request a new random champion <br>
+
+
+
 
 
 
