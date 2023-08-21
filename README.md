@@ -362,6 +362,10 @@ Now we gonnna need to check that differnce betwwn current imestamp and previous 
 
 is greater than some interval <br>
 
+Interval is gonna be some number in seconds of how long we want to wait between <br>
+
+lottery runs <br>
+
 
 
 
