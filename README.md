@@ -366,6 +366,9 @@ Interval is gonna be some number in seconds of how long we want to wait between 
 
 lottery runs <br>
 
+Now we gonna add it to our constructor as well <br>
+
+
 
 
 
