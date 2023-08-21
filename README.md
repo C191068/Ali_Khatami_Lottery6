@@ -434,6 +434,11 @@ We don't need to say what upkeepNeeded type is here <br>
 Since it will automatically get returned <br>
 
 
+![k52](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/9104e35e-d6dc-4031-abd1-21bc5be2fa59)
+
+Now we have this checkupkeep to chcek to see if it is time to trigger picking <br>
+the random winner of our lottery <br>
+
 
 
 
