@@ -427,6 +427,9 @@ now we will update the above function <br>
 
 Since we have initialized boolean upkeepNeeded here <br>
 
+![k51](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/04e63a9f-9433-423f-8c2d-eb2675331361)
+
+We don't need to say what upkeepNeeded type is here <br>
 
 
 
