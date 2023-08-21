@@ -378,6 +378,8 @@ Now we gonna create another global variable <br>
 
 Then in our constructor ww will assign the above <br>
 
+interval isn't gonna change after we set it <br>
+
 
 
 
