@@ -14,7 +14,7 @@ to update the recennt winner ansd sent them all the funds <br>
 
 We shall import  /AutomationCompatibleInterface.sol so that we can implement both function checkUpkeep <br>
 
-function checkUpkeep <br>
+and promiseUpkeep <br>
 
 ![k20](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/0304feec-5a90-445e-b97e-45f936fc0fa3)
 
