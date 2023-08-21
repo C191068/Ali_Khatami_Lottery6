@@ -329,6 +329,10 @@ to request a new random champion <br>
 ![k36](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/2399d679-3469-4ed9-b136-860df4bca778)
 
 This boolean state above gonna be true if the LotteryState is in open state <br>
+And it will be false if Lotterystate is in any other state <br>
+
+
+
 
 
 
