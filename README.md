@@ -403,6 +403,9 @@ now we will create boolean to check to see if enough time is passed <br>
 Now we will check to see if we enough players <br>
 
 
+
+![k47](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/7216397f-aa38-4e0e-9f55-28f9581d288a)
+
 Now we will also see if we have a balance <br>
 
 
