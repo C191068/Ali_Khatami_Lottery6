@@ -309,6 +309,18 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 Now we have learned about Enum now we will adda to our checkUpkeep here <br>
 
 
+We gonna check the below four things :
+1. our time interval should have passed <br>
+
+2. The lottery should have at least one player and have some eth <br>
+
+3. Our subscription is funded with link <br>
+
+4. The lottery should be in an open state <br>
+
+
+
+
 
 
 
