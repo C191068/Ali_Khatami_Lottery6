@@ -340,6 +340,10 @@ Now we check to make sure if our time interval is passed <br>
 In order to chcek the time we gonna use another solidity globally available variable <br>
 known as block timestamp <br>
 
+It returns the current timestamp of blockchain <br>
+
+
+
 
 
 
