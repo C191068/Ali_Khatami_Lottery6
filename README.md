@@ -409,6 +409,9 @@ Now we will check to see if we enough players <br>
 Now we will also see if we have a balance <br>
 
 
+Now we will take all these booleans and turn them into the return variable <br>
+that we are looking for <br>
+
 
 
 
