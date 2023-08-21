@@ -419,6 +419,10 @@ it is time to end the lottery <br>
 
 if it is false it is not time yet ,it is not time to end the lottery up <br>
 
+![k49](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/a30a9cde-8b3b-4c6b-9e18-09f88d4894e9)
+
+now we will update the above function <br>
+
 
 
 
