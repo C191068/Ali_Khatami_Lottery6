@@ -306,7 +306,10 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
 ```
 
-Now we have learned about Enum now we will adda to our checkUpkeep here <br>
+
+
+
+Now we have learned about Enum now we will add to our checkUpkeep  <br>
 
 
 We gonna check the below four things :
@@ -323,6 +326,7 @@ If the above all are true checkUpkeep will be true and will trigger the chainlin
 
 to request a new random champion <br>
 
+![k36](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/2399d679-3469-4ed9-b136-860df4bca778)
 
 
 
