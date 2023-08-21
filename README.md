@@ -331,6 +331,9 @@ to request a new random champion <br>
 This boolean state above gonna be true if the LotteryState is in open state <br>
 And it will be false if Lotterystate is in any other state <br>
 
+Now we check to make sure if our time interval is passed <br>
+
+
 
 
 
