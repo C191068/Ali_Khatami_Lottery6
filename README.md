@@ -389,6 +389,9 @@ instead of making it storage variable we gonna make it immutable to save some ga
 instead of making it storage variable we gonna make it immutable to save some gas <br>
 
 
+now we will create boolean to check to see if enough time is passed <br>
+
+
 
 
 
