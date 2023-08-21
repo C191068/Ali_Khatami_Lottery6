@@ -306,6 +306,8 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
 ```
 
+Now we have learned about Enum now we will adda to our checkUpkeep here <br>
+
 
 
 
