@@ -408,6 +408,7 @@ Now we will check to see if we enough players <br>
 
 Now we will also see if we have a balance <br>
 
+![k48](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/7a531ce3-0da7-412d-b569-856b8109359b)
 
 Now we will take all these booleans and turn them into the return variable <br>
 that we are looking for <br>
