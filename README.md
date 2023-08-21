@@ -423,6 +423,9 @@ if it is false it is not time yet ,it is not time to end the lottery up <br>
 
 now we will update the above function <br>
 
+![k50](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/f67eeb8a-d76b-403d-97b3-0992815a44ff)
+
+Since we have initialized boolean upkeepNeeded here <br>
 
 
 
