@@ -352,6 +352,10 @@ minus the lastblocktimestamp
 Now we will create a state variable that will keep track of previous <br>
 blocktimestamp <br>
 
+
+![k39](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/e1ac580e-b779-418d-8985-6b94c924aad8)
+
+
 Right when we deploy this contract we will update this with current timestamp<br>
 
 
