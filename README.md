@@ -168,9 +168,11 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
     /*New data type*/
 
-    enum LotteryState {
-
+   enum LotteryState {
+        OPEN,
+        CALCULATING
     }
+
 
     /* State variables */
 
@@ -460,8 +462,9 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
     /*New data type*/
 
-    enum LotteryState {
-
+   enum LotteryState {
+        OPEN,
+        CALCULATING
     }
 
     /* State variables */
