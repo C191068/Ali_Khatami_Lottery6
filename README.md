@@ -352,7 +352,7 @@ minus the lastblocktimestamp
 Now we will create a state variable that will keep track of previous <br>
 blocktimestamp <br>
 
-Right when we deploy this contract <br>
+Right when we deploy this contract we will update this with current timestamp<br>
 
 
 
