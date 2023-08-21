@@ -395,6 +395,11 @@ instead of making it storage variable we gonna make it immutable to save some ga
 
 now we will create boolean to check to see if enough time is passed <br>
 
+
+
+![k46](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/c08828d2-9548-4550-bf3d-50f7507d0e6f)
+
+
 Now we will check to see if we enough players <br>
 
 
