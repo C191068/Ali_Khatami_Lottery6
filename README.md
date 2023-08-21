@@ -370,6 +370,9 @@ lottery runs <br>
 
 Now we gonna add it to our constructor as well <br>
 
+![k41](https://github.com/C191068/Ali_Khatami_Lottery6/assets/89090776/b073c5de-f8f8-4d5d-9ed0-5153e0a9d97a)
+
+Now we gonna create another global variable <br>
 
 
 
