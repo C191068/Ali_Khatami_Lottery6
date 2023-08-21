@@ -345,6 +345,10 @@ It returns the current timestamp of blockchain <br>
 If enough time is passed we need to get the current blocktimestamp <br>
 minus the lastblocktimestamp 
 
+Now we will create a state variable that will keep track of previous <br>
+blocktimestamp <br>
+
+
 
 
 
